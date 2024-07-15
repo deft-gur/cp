@@ -1,0 +1,72 @@
+Starting preflow
+inserted 1 into the queue
+inserted 2 into the queue
+inserted 3 into the queue
+popped 1 out of the queue
+Picking 1
+candidate3
+relabling 1
+pushing: 1,3
+forward
+inserted 1 into the queue
+popped 1 out of the queue
+Picking 1
+candidate4
+relabling 1
+pushing: 1,4
+forward
+inserted 4 into the queue
+inserted 1 into the queue
+popped 1 out of the queue
+Picking 1
+candidate5
+relabling 1
+pushing: 1,5
+forward
+inserted 5 into the queue
+inserted 1 into the queue
+popped 1 out of the queue
+Picking 1
+candidate0
+relabling 1
+pushing: 1,0
+backward
+popped 2 out of the queue
+Picking 2
+candidate5
+relabling 2
+pushing: 2,5
+forward
+inserted 2 into the queue
+popped 2 out of the queue
+Picking 2
+candidate0
+relabling 2
+pushing: 2,0
+backward
+popped 3 out of the queue
+Picking 3
+candidate4
+relabling 3
+pushing: 3,4
+forward
+inserted 3 into the queue
+popped 3 out of the queue
+Picking 3
+candidate0
+relabling 3
+pushing: 3,0
+backward
+popped 4 out of the queue
+Picking 4
+candidate5
+relabling 4
+pushing: 4,5
+forward
+popped 5 out of the queue
+Picking 5
+candidate6
+relabling 5
+pushing: 5,6
+forward
+Mx flow: 28
