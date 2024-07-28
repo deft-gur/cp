@@ -1,0 +1,111 @@
+0 4 -1 0 0 
+0 0 -7 0 0 
+0 0 0 0 0 
+2 0 0 0 11 
+0 4 -6 0 0 
+X values:
+0 2 7 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+4 0 1 0 1 
+0 1 1 0 0 
+res graph: 
+1->2[label=4]
+1->4[label=-2]
+2->1[label=-4]
+2->3[label=-7]
+2->5[label=-4]
+3->1[label=1]
+3->2[label=7]
+3->4[label=0]
+3->5[label=6]
+4->1[label=2]
+4->3[label=0]
+4->5[label=11]
+5->4[label=-11]
+5->2[label=4]
+enteirng danztig
+Negative cycle found: 2, 3, 1, 2
+240013gamma2
+X values:
+0 4 5 0 0 
+0 0 3 0 0 
+0 0 0 0 0 
+4 0 1 0 1 
+0 1 1 0 0 
+res graph: 
+1->4[label=-2]
+1->3[label=-1]
+2->1[label=-4]
+2->5[label=-4]
+3->1[label=1]
+3->2[label=7]
+3->4[label=0]
+3->5[label=6]
+4->1[label=2]
+4->3[label=0]
+4->5[label=11]
+5->4[label=-11]
+5->2[label=4]
+enteirng danztig
+Negative cycle found: 2, 1, 4, 3, 1
+001400gamma3
+X values:
+0 4 2 0 0 
+0 0 3 0 0 
+0 0 0 0 0 
+1 0 4 0 1 
+0 1 1 0 0 
+res graph: 
+1->4[label=-2]
+1->3[label=-1]
+2->1[label=-4]
+2->5[label=-4]
+3->1[label=1]
+3->2[label=7]
+3->4[label=0]
+3->5[label=6]
+4->1[label=2]
+4->5[label=11]
+5->4[label=-11]
+5->2[label=4]
+enteirng danztig
+Negative cycle found: 2, 5, 4, 1, 3, 2
+0027160000gamma1
+X values:
+0 4 3 0 0 
+0 0 2 0 0 
+0 0 0 0 0 
+2 0 4 0 0 
+0 0 1 0 0 
+res graph: 
+1->4[label=-2]
+1->3[label=-1]
+2->1[label=-4]
+2->3[label=-7]
+3->1[label=1]
+3->2[label=7]
+3->4[label=0]
+3->5[label=6]
+4->1[label=2]
+4->5[label=11]
+5->2[label=4]
+enteirng danztig
+X values:
+0 4 3 0 0 
+0 0 2 0 0 
+0 0 0 0 0 
+2 0 4 0 0 
+0 0 1 0 0 
+res graph: 
+1->4[label=-2]
+1->3[label=-1]
+2->1[label=-4]
+2->3[label=-7]
+3->1[label=1]
+3->2[label=7]
+3->4[label=0]
+3->5[label=6]
+4->1[label=2]
+4->5[label=11]
+5->2[label=4]
