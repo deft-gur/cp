@@ -15,7 +15,7 @@ int b[MX];
 int WRes[MX][MX];
 int y[MX];
 int p[MX];
-vii AL[MX];
+//vii AL[MX];
 vii ALRes[MX];
 int X[MX][MX];
 
@@ -163,7 +163,7 @@ int main() {
   for (int i = 1; i <= m; ++i) {
     int u, v, w, c;
     cin >> u >> v >> w >> c;
-    AL[u].emplace_back(w, c);
+    //AL[u].emplace_back(w, c);
     W[u][v] = w;
     Present[u][v] = 1;
     C[u][v] = c;
